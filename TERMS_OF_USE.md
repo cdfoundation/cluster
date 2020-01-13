@@ -1,16 +1,16 @@
 *Please read these Terms of Use ("Terms") carefully before using this site. By accessing and using the Intel ("Provider") deployed CDF Cluster or an associated website, including all tools, software, documentation and other collateral provided in connection with the CDF Cluster (collectively the “CDF Cluster”) you acknowledge and agree to abide by the following Terms of Use. If you do not agree to these Terms, do not use the CDF Cluster.*
 
-Scope of Terms
+# Scope of Terms
 
 These Terms of Use are applicable to your use of the CDF Cluster and all associated sites, whether a sponsored site, managed through a third party vendor or hosted by a third party. These Terms also apply to any resources and tools provided through the CDF Cluster, including but not limited to developer tools, download areas, and sharing sites and product information.  You are responsible for your use of the CDF Cluster, for any software which you run on the CDF Cluster and for any consequences thereof.
 
-Security and Privacy
+# Security and Privacy
 
 **Personal Information:** Information submitted to Provider is governed according to Provider's Privacy Policy.
 
 **Member Account, Password, and Security:** Provider will require you to establish a user account and/or site password. In such cases, you are entirely responsible for maintaining the confidentiality of your password and account. Furthermore, you are entirely responsible for any and all activities that occur under your account. You agree to notify Provider immediately of any unauthorized use of your account or any other breach of security here. Provider will not be liable for any loss that you may incur as a result of someone else using your password or account, either with or without your knowledge. However, you could be held liable for losses incurred by Provider or another party due to someone else using your account or password. You may not use anyone else's account at any time, without the permission of the account holder.
 
-Use Terms
+# Use Terms
 
 **Personal Non-Commercial Use:** This CDF Cluster is for non-commercial use. Unless otherwise specified or as provided in these Terms, you may not modify, copy, distribute, transmit, display, perform, reproduce, publish, license, create derivative works from, transfer, or sell any information, software, products or services obtained from the CDF Cluster or offer services from the CDF Cluster, however use of the CDF Cluster to validate or verify software intended for commercial use or distribution is permitted.  
 
@@ -42,7 +42,7 @@ Use Terms
 
 **US Government Restricted Rights:**  Any Provider software, if provided is provided with "RESTRICTED RIGHTS." Use, duplication, or disclosure by the Government is subject to restrictions as set forth in FAR52.227-14 and DFAR252.227-7013 et seq. or its successor. Use of the software by the Government constitutes acknowledgment of Provider's proprietary rights in them.
 
-Notices and Disclosures
+# Notices and Disclosures
 
 **Exclusions of Warranty:** The CDF Cluster is provided by Provider and/or its worldwide direct or indirect subsidiaries and affiliates as a service to users and are for development purposes only. YOU EXPRESSLY UNDERSTAND AND AGREE THAT:
 
@@ -66,7 +66,7 @@ Notices and Disclosures
 
 **Changes and Updates:** Provider reserves the right to modify or discontinue, temporarily or permanently, the CDF Cluster (or any part thereof) with or without notice. Provider may make changes to CDF Cluster, or to the products described therein, at any time without notice. Provider makes no commitment to update the CDF Cluster.
 
-Content Related Notices
+# Content Related Notices
 
 **Ownership:** You acknowledge and agree that Provider owns all legal rights, title and interest in and to the CDF Cluster, including any Provider trade names, trademarks, service marks, logos, domain names, and other distinctive brand features therein (whether those rights happen to be registered or not, and wherever in the world those rights may exist), and that they are protected by worldwide copyright laws and treaty provisions. They may not be copied, reproduced, modified, published, uploaded, posted, transmitted, or distributed in any way without Provider's prior written permission. Except as expressly provided herein, Provider does not grant any express or implied right to you under any patents, copyrights, trademarks, or trade secret information.
 
