@@ -1,6 +1,6 @@
 ---
-name: New Lab Request issue template
-about: Lab Request Template
+name: New Lab Request issue
+about: Create a new Infrastructure Lab Request
 title: ''
 labels: ''
 assignees: ''
