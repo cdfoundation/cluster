@@ -1,13 +1,13 @@
 ---
-name: New Lab Request issue
-about: Create a new Infrastructure Lab Request
+name: New Infrastructure Lab Access Request
+about: Create a new Infrastructure Lab Access Request
 title: ''
 labels: ''
 assignees: ''
 
 ---
 
-Please fill out the details below to file a request for access to the CNCF Community Infrastructure Lab. Please note that access is targeted to people working on specific open source projects; this is not designed just to get your feet wet. The most important answer is the URL of the project you'll be working with. If you're looking to learn Kubernetes and related technologies, please try out [Katacoda](https://www.katacoda.com/courses/kubernetes/playground).
+Please fill out the details below to file a request for access to the CDF Community Infrastructure Lab. Please note that access is targeted to people working on specific open source projects; this is not designed just to get your feet wet. The most important answer is the URL of the project you'll be working with. If you're looking to learn Kubernetes and related technologies, please try out [Katacoda](https://www.katacoda.com/courses/kubernetes/playground).
 
 ### First and Last Name
 
